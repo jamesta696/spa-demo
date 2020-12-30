@@ -1,6 +1,13 @@
 # Cordova
 node_modules
 node_modules/
+kernel
+framework/node_modules/
+framework/package-lock.json
+framework/backup/
+src/display/worlds/fruits
+fruit-bowl.html
 .vscode/
 .DS_Store
 *.DS_Store
+package-lock.json
